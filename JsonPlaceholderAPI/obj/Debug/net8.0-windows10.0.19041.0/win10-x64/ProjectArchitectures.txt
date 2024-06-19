@@ -1,0 +1,1 @@
+C:\Estudo\Pam\MVVM\JsonPlaceholderAPI\JsonPlaceholderAPI.csproj;x64
